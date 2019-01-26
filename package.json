@@ -1,0 +1,22 @@
+{
+  "name": "hello-gun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjwu95/hello-gun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjwu95/hello-gun/issues"
+  },
+  "homepage": "https://github.com/rjwu95/hello-gun#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
